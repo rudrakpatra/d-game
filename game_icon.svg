@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Svg Vector Icons : http://www.onlinewebfonts.com/icon -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<metadata> Svg Vector Icons : http://www.onlinewebfonts.com/icon </metadata>
+<g><path d="M984,602.1c-30.6-275.5-86.7-474-264.8-474c-91.6,0-136,93.3-219.2,100.7C416.9,221.3,372.4,128,280.8,128C102.7,128,46.6,326.5,16,602.1C-0.4,750,13.2,872.5,103.6,872C231,872,236,755.8,325.7,702.4C360,685.3,437,678,500,675.2c63,2.8,140,10.1,174.3,27.3C764,755.8,769,872,896.4,872C986.8,872.5,1000.4,750,984,602.1z M283.7,577.4c-70.2,0-127.1-56.9-127.1-127.1c0-70.2,56.9-127.1,127.1-127.1c70.2,0,127.1,56.9,127.1,127.1C410.9,520.4,354,577.4,283.7,577.4z M856,475.7h-99.9v99.9h-48.4v-99.9h-99.9v-48.4h99.9v-99.9h48.4v99.9H856L856,475.7L856,475.7z"
+fill="url(#gradient-fill-golden)"
+/><path d="M211.1,450.2c0,40.1,32.5,72.7,72.7,72.7s72.6-32.5,72.6-72.7c0-40.1-32.5-72.6-72.6-72.6S211.1,410.1,211.1,450.2z"
+fill="url(#gradient-fill-golden)"
+/></g>
+<defs>
+<linearGradient id="gradient-fill-golden" x1="194.651" y1="8.81818" x2="536.076" y2="792.989" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFEA83"/>
+<stop offset="0.0833333" stop-color="#FFDD35"/>
+<stop offset="1" stop-color="#FFA800"/>
+</linearGradient>
+</defs>
+</svg>
+
